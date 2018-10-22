@@ -1,6 +1,4 @@
-﻿[![sites](adv/Qi.png)](http://www.qitas.cn)
-
-# NB IOT ME3616
+﻿# NB IOT ME3616
 
 ### 描述
 
