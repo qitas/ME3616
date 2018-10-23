@@ -20,6 +20,10 @@
 
 是工程的相关依赖ST库
 
+- tool
+
+包括window下串口调试工具
+
 - adv
 
 包括各种添加的文件，有datasheet和AT指令表
