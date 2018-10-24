@@ -22,7 +22,7 @@
 
 - tool
 
-包括window下串口调试工具
+包括window下串口调试工具，集成指令
 
 - adv
 
