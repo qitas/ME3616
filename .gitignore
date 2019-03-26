@@ -1,8 +1,0 @@
-IAR/Debug
-IAR/settings
-obj/
-list/
-Keil/*.uvgui.*
-Keil/*.uvgui_*
-Keil/*.uvopt
-
