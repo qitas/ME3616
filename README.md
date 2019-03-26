@@ -1,39 +1,29 @@
-﻿# NB IOT ME3616
+﻿# [ME3616](https://github.com/Qitas/ME3616) 
 
-### 描述
+#### qitas@qitas.cn
 
-串口收发同步传输工程
+## [简介](https://github.com/Qitas/ME3616/wiki)
 
----
+ME3616 是一款支持NB-IoT通信标准的窄带蜂窝物联网通信模组。在NB-IoT制式下，该模块可以提供最大66 Kbps上行速率和34 Kbps下行速率。该模块为极小尺寸LCC紧凑型封装模块，适用于可穿戴设备等对于模块尺寸有严格要求的应用领域。
 
-## 组成
+ME3616-G1A内置了UFireBird超低功耗GNSS芯片，在冷启动、热启动、捕获定位的功耗指标方面的指标降低至原有2G方案的30%~50%。
 
-- user
+模组尺寸 16mm × 18mm
 
-是工程主要的源码文件
+## [组成](qitas/)
 
-- hard
+#### [项目文档](docs/)
 
-包括一些硬件设计的库文件
+包括软硬件资源
 
-- libs
+#### [项目资源](project/)
 
-是工程的相关依赖ST库
+包括源码工程
 
-- tool
-
-包括window下串口调试工具，集成指令
-
-- adv
-
-包括各种添加的文件，有datasheet和AT指令表
 
 ---
-## 说明
 
-2018-10-23: 添加更多内容
-2018-10-22: 初始化
+## 锻造最美之器
 
----
-## 为锻造最美之器
-[![sites](adv/qitas.png)](http://www.qitas.cn)
+[![sites](qitas/qitas.png)](http://www.qitas.cn)
+
